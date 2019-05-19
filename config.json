@@ -1,0 +1,7 @@
+{
+    "server":"servier_ip",
+    "server_port":65432,
+    "password":"password",
+    "timeout":60,
+    "method":"rc4-md5"
+}
